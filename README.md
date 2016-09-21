@@ -17,7 +17,7 @@ http://localhost/advanced/frontend/web/site/read?id=22
 
 Sample for data structure:
 
-{
+
     "ok": true,
     "message": "Successful",
     "airport": {
@@ -27,4 +27,4 @@ Sample for data structure:
         "country": "jo",
         "city": "Amman"
     }
-}
+
